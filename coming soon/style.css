@@ -4,10 +4,6 @@ body{
 
 }
 
-#text-block {
-
-}
-
 #bigger {
 	font-size: 35;
 	position: absolute;
@@ -61,4 +57,3 @@ a.button1:hover{
     margin:0.4em auto;
    }
 }
-
